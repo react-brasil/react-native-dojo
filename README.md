@@ -1,13 +1,14 @@
 # React Native DOJO - [Importante - Leia Isso](https://github.com/react-native-dojo/react-native-dojo/issues/1)
 [![Join the chat at https://gitter.im/henriquesosa/react-native-dojo][gitter-badge]][gitter-url]
 
-A remote Dojo using React Native and other bleeding edge technologies
+Um Dojo remoto para aprender React Native e outras das tecnologias mais recentes
 
-Everything started with this meetup idea - [React Native Meetup](http://www.meetup.com/Sao-Paulo-React-React-Native-Meetup/)
+Tudo começou com esse meetup -[React Native Meetup](http://www.meetup.com/Sao-Paulo-React-React-Native-Meetup/)
 
-# What is this?
+# Mais o que é um Dojo ?
+É uma maneira de aprender a codificar colaborativamente
 
-This wil be used to discuss what kind of application we want to build to help us learn:
+# O que pretendemos aprender:
 - React
 - React Native
 - Redux / Flux
@@ -22,7 +23,7 @@ This wil be used to discuss what kind of application we want to build to help us
 - Flow
 - ...
 
-Follow this [issue](https://github.com/react-native-dojo/react-native-dojo/issues/1) for more information
+Essa [ISSUE #1](https://github.com/react-native-dojo/react-native-dojo/issues/1) seja utilizada para discussões e maior detalhamente da ideia
 
 [gitter-badge]: https://badges.gitter.im/react-native-dojo/react-native-dojo.svg
 [gitter-url]: https://gitter.im/henriquesosa/react-native-dojo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
