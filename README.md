@@ -1,4 +1,4 @@
-# React Native DOJO
+# React Native DOJO - [Importante - Leia Isso](https://github.com/react-native-dojo/react-native-dojo/issues/1)
 [![Join the chat at https://gitter.im/henriquesosa/react-native-dojo][gitter-badge]][gitter-url]
 
 A remote Dojo using React Native and other bleeding edge technologies
