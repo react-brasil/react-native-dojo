@@ -9,7 +9,7 @@ Everything started with this meetup: [React Native Meetup](http://www.meetup.com
 ## But what is a Dojo?
 It's a collaborative approach to learn to code.
 
-## What we inteded to learn:
+## What we intend to learn:
 - React
 - React Native
 - Redux / Flux
